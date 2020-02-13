@@ -1,2 +1,0 @@
-# MyQuestList
-Created with CodeSandbox
